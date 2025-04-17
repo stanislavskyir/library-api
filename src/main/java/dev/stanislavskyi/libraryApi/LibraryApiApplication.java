@@ -10,4 +10,9 @@ public class LibraryApiApplication {
 		SpringApplication.run(LibraryApiApplication.class, args);
 	}
 
+//	@Bean
+//	public PersonMapper personMapper() {
+//		return new PersonMapperImpl();
+//	}
+
 }

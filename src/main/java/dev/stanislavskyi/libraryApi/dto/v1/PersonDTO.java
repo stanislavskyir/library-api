@@ -1,11 +1,7 @@
-package dev.stanislavskyi.libraryApi.dto;
+package dev.stanislavskyi.libraryApi.dto.v1;
 
-import dev.stanislavskyi.libraryApi.models.Book;
-import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.Size;
-
-import java.util.List;
 
 public class PersonDTO {
 
